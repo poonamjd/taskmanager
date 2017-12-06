@@ -1,1 +1,1 @@
-var name="Amarjeet singh";document.write("Hello "+name+"!");
+var name="Poonam Despande";document.write("Hello "+name+"!");
